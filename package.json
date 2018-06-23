@@ -1,0 +1,24 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "lab reservation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "*",
+    "cors": "^2.8.4",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "rxjs": "^6.2.1",
+    "rxjs-compat": "^6.2.1"
+  },
+  "author": "Uddeepa Wijerathna",
+  "license": "ISC"
+}
